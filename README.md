@@ -7,7 +7,7 @@ Normalisering er en teknik til at designe tabeller i en relationsdatabase på en
 * [Normalisering](https://docs.google.com/document/d/e/2PACX-1vS5A34jXa-Qy0HY7b4hAXqbswLpMWyQoOuFJY1WM8PZysKywwXECtj89Xv0lDv_f58K_BdD1yogvWOI/pub)
 
 ## Slides
-* [19 Database Modeling_ Normalization.pdf]()
+* [19 Database Modeling_Normalization.pdf](https://github.com/dat17v1/19_normalisering/blob/master/19%20Database%20Modeling_%20Normalization.pdf)
 
 ## Videos
 * [Understanding normalization](https://www.lynda.com/Programming-Foundations-tutorials/Understanding-normalization/412845/438436-4.html?autoplay=true)
