@@ -15,9 +15,8 @@ Normalisering er en teknik til at designe tabeller i en relationsdatabase på en
 * [Second normal form](https://www.lynda.com/Programming-Foundations-tutorials/Second-normal-form/412845/438438-4.html?autoplay=true)
 * [Third normal form](https://www.lynda.com/Programming-Foundations-tutorials/Third-normal-form/412845/438439-4.html?autoplay=true)
 
-
 # Øvelser
-* []()
-* []()
-* []()
+* [1NF](https://docs.google.com/document/d/e/2PACX-1vQKkB_uHP2twOR4gUGeph0I1pOHBTOOBVfWsyY_a9fMLOOJtCNT2MfZDkZ9uyMPIe6sx8xhF37FK4Zq/pub)
+* [2NF]()
+* [3NF]()
 
