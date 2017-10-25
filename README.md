@@ -17,6 +17,6 @@ Normalisering er en teknik til at designe tabeller i en relationsdatabase på en
 
 # Øvelser
 * [1NF](https://docs.google.com/document/d/e/2PACX-1vQKkB_uHP2twOR4gUGeph0I1pOHBTOOBVfWsyY_a9fMLOOJtCNT2MfZDkZ9uyMPIe6sx8xhF37FK4Zq/pub)
-* [2NF]()
-* [3NF]()
+* [2NF & 3NF](https://docs.google.com/document/d/e/2PACX-1vRbbYtYq0GfDIg7jC3s-JQT8Njey1QayyJ3PWdvPpyKwswKY6CWlR_lD2cDrvtf0ayugoEP8hUuvWWV/pub)
+* [Finalization](https://docs.google.com/document/d/e/2PACX-1vR6wEsPhyKp4ZZVPrDl6fuR1VvGJiR0bFrtnNDtVqDwKTz_Se5ixBqKZ0jJhPjVaVCZBSKUsDqwRXd-/pub)
 
